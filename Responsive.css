@@ -1,0 +1,91 @@
+@media all and (max-width:986px){
+	.box {
+    width: 46%;
+	}
+	
+}
+@media all and (max-width:927px){
+	
+	.menu {
+    width: 80%;
+    float: right;	
+  }
+header .logo {
+    width: 20%;
+  }	
+  .portfolio-content .gallary {
+    width: 48%;
+  }
+}
+@media all and (max-width:871px){
+	.service-content .box {
+      width: 45%;
+  }
+  .skill .simg {
+	width:100%;
+    float: none;
+  }
+  .skill .section-title {
+    width: 100%;
+  }
+  .bar {
+    width: 100%;
+	}
+}
+@media all and (max-width:841px){
+	.service-content .box {
+      width: 100%;
+	}
+	.text {
+    width: 100%;
+	}	
+	.img {
+	width: 100%;
+	}	
+	.box {
+    width: 100%;
+	}
+}
+@media all and (max-width:776px){
+	.user input {
+		width: 92%;
+		margin-top: 20px;
+}
+@media all and (max-width:703px){
+	.res-menu a i{
+	display:block;
+	}
+	.menu {
+    display: none;
+	}
+	.menu ul li {
+    display: block;
+	}
+	.menu {
+    width: 100%;
+	background: #f1f1f1;
+	}
+	.menu ul li a {
+    line-height: 45px;
+   padding: 10px 0;
+margin-top: 0;
+margin-left: 0;
+color: #666666;
+	}
+	.menu ul li {
+    display: block;
+    text-align: center;
+	}
+
+}
+@media all and (max-width:585px){
+	.portfolio-content .gallary {
+    width: 100%;
+	}
+	.user input {
+    margin-left: 16px;
+	}
+	.contect-box textarea {
+    margin: 20px 16px;
+	}
+}
